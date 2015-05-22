@@ -43,3 +43,8 @@ To improve myself in some of the following technologies:
 - Vagrant
 - Jenkins
 
+Secondary Goals
+===============
+
+Have the user's client store information using the HTML5 Storage, accessing it before 
+making any ajax requests to the frontend application.
