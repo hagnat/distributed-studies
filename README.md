@@ -10,7 +10,7 @@ Given an undefined project, composed of
 - a NoSQL database, such as Couchbase or Mongo, working as cache
 - a queue server, such as RabbitMQ
 - a container manager, such as Kubernetes/Docker, or Ansible/Vagrant
-- a continous integration manager, such as Jenkins
+- a continous integration manager, such as Jenkins, or Grunt
 
 The frontend will have no business logic, these will be entirely in the backend application.
 
@@ -42,6 +42,7 @@ To improve myself in some of the following technologies:
 - Ansible
 - Vagrant
 - Jenkins
+- Grunt
 
 Secondary Goals
 ===============
