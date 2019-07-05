@@ -5,11 +5,11 @@ Description
 Given an undefined project, composed of
 
 - a backend application, developed in Python/Django, or PHP/Symfony 2.x
-- a frontend application, developed in Python/Flask, or PHP/Sylex, or Node.js
+- a frontend application, developed in Python/Flask, or PHP/Sylex, or Angular
 - a relational database, such as PostgreSQL
-- a NoSQL database, such as Couchbase or Mongo, working as cache
+- a NoSQL database, such as Redis, or Mongo, working as cache
 - a queue server, such as RabbitMQ
-- a container manager, such as Kubernetes/Docker, or Ansible/Vagrant
+- a container manager, such as Docker Composse
 - a continous integration manager, such as Jenkins, or Grunt
 
 The frontend will have no business logic, these will be entirely in the backend application.
@@ -32,7 +32,7 @@ To improve myself in some of the following technologies:
 - Flask
 - Symfony 2.x
 - Sylex
-- Node.js
+- Angular
 - PostgreSQL
 - Couchbase
 - MongoDB
